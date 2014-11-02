@@ -1,0 +1,17 @@
+Statistical Analysis of  Quran
+Bello version 0.1
+Corpus language: english 
+
+Total words in  Quran: 170959
+Total distinct words in  Quran: 7186
+Total words in  Quran [stopwords removed]:  75285
+Total distinct words in  Quran [stopwords removed]:  7060
+
+
+muhammad appears  4  times
+Displaying 4 of 4 matches:
+our own eyes and ye flinch section muhammad is no more than an apostle many we
+ough is god to call men to account muhammad is not the father of any of your m
+hose who transgress p p sura xlvii muhammad the prophet in the name of god mos
+on and enough is god for a witness muhammad is the apostle of god and those wh
+None
