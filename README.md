@@ -2,7 +2,7 @@
 
 Bello is a lightweight text mining library for Python 3. It allows a text mining enthusiast like you to get up and running with analysing the corpus of your choice. Text mining is fun and we want beginners to not be put away by the high learning curve.
 
-We expose core text mining features through a dead-simple API that you will start to love. A gentle reminder though: this is a work in progress and contributors are welcome. Bello was born out of a mini-research project on Text Mining 'The Holy Quran'. The work can be seen [here]('bit.ly/QuranStat1).
+We expose core text mining features through a dead-simple API that you will start to love. A gentle reminder though: this is a work in progress and contributors are welcome. Bello was born out of a mini-research project on Text Mining 'The Holy Quran'. The work can be seen [here](bit.ly/QuranStat1).
 
 ###API documentation v0.1
 
